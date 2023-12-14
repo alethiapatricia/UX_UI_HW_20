@@ -5,3 +5,47 @@
     
     text-align: center;
 } */
+
+.nav-bar-container{
+    background-color: black;
+}
+
+.nav-bar-font{
+    color: #FFF;
+
+text-align: center;
+font-family: DM Serif Display;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.introduction-container{
+    background-color: black;
+ 
+    
+}
+
+.introduction-container-font{
+    color: #FFF;
+font-family: Encode Sans;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: left;
+}
+p{
+    font-family: Encode Sans;
+    text-align: left;
+}
+h5{
+    font-family: Encode Sans;
+    text-align: center;
+}
+h3{
+    font-family: Fredoka One;
+    text-align: center;
+}
+.card-text{
+    font-family: Encode Sans;
+    font-size: small;
+}
